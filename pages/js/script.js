@@ -4,6 +4,6 @@ document.getElementById('myslide').onmousemove = function (event) {
 	document.getElementById('two').style.width = x + 'px'
 }
 
-document.getElementById('myslide').onmouseleave = function (event) {
-	document.getElementById('two').style.width = '640px';
-}
+// document.getElementById('myslide').onmouseleave = function (event) {
+// 	document.getElementById('two').style.width = '640px';
+// }
